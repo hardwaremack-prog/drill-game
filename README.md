@@ -4,6 +4,9 @@
 
 ![Drill Game screenshot](<Drill Game - screenshot.png>)
 
+![Drilling down through the ore](screenshots/gameplay.png)
+*Drilling down through the ore*
+
 ## How to play
 
 - Move and dig with the **arrow keys** or **WASD**
